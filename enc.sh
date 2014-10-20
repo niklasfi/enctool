@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#USAGE: enctool <plaintext_file>
+
 function printcode(){
 
 echo """#include <sstream>
